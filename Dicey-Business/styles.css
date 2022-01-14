@@ -1,0 +1,29 @@
+.die {
+  display: inline-block;
+  font-size: 8em;
+  color: white;
+}
+
+#container2 {
+  border: solid black 2px;
+  padding-left: 2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-right: 2em;
+}
+
+#container {
+  padding-left: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-right: 1em;
+  border: solid black 2px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+body {
+  background: linear-gradient(to right, rgb(0, 38, 128), rgb(192, 255, 247));
+  margin-left: 12em;
+  margin-right: 12em;
+}
